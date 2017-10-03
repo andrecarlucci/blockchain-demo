@@ -11,9 +11,10 @@
 	"Coinbase": "Coinbase",
 	"Prev": "Prévio",
 	"Distributed Blockchain": "Blockchain distribuído",
-	"Peer": "Peer",
+	"Peer": "Computador",
 	"Tx": "Tx",
-	"$": "Re$",
+	"$": "R$",
 	"From": "De",
-	"Coinbase Transactions": "Transações Coinbase"
+	"Coinbase Transactions": "Transações Coinbase",
+	"Simple Token": "Simple Token"
 }

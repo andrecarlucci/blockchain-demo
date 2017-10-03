@@ -44,3 +44,8 @@ input {
   border: 0;
   z-index: 20000;
 }
+
+.row-horizon {
+  overflow-x: visible;
+  overflow-y: visible;
+}

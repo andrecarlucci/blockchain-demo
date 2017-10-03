@@ -10,7 +10,7 @@ block content
         .form-group
           label.col-sm-2.control-label(for='data') #{__('Data')}:
           .col-sm-10
-            textarea#data.form-control(rows='10', onkeyup='$("#hash").val(sha256())')
+            textarea#data.form-control(rows='5', onkeyup='$("#hash").val(sha256())')
 
         .form-group
           label.col-sm-2.control-label(for='hash') #{__('Hash')}:
